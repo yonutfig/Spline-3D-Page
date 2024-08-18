@@ -1,0 +1,12 @@
+.modal-content {
+  font-family: "Newsreader", serif;
+  background: rgba(255, 255, 255, 0.8);
+}
+.modal-header {
+  background: linear-gradient(45deg, #172e31 29%, #1c2d36 41%, #1f3b3f 43%);
+  color: white;
+}
+
+.modal-body {
+  font-size: 20px;
+}

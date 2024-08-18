@@ -1,0 +1,10 @@
+.custom-avatar-group .custom-avatar {
+  width: 60px !important;
+  height: 60px !important;
+  border: 5px solid rgba(255, 255, 255, 0.5);
+  font-weight: semi-bold;
+}
+
+.card {
+  --bs-card-bg: transparent !important;
+}
